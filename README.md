@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="SRWGAN GP SSIM-logos_white.png" height=500>
+  <img src="SSRWGAN GP SSIM-logos.jpeg" height=500>
 </p>
 
 # Deep-Learning
