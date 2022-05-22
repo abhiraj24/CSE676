@@ -27,7 +27,7 @@ Colab Link to Project: [Colab Demo](https://colab.research.google.com/drive/1R-7
 We ran two different types of models where we incorporated the SSIM loss in one model and kept it out in another. It can be seen from Table 1 that SRWGAN with SSIM was better. 
 
 <p align="centre">
-  <img src="butterflyx4.png" height=100>
+  <img src="butterflyx4.png" height=300>
 </p>
 
 We could see the perceptual variation between the two models when we compared the Set5 images. The SRWGAN without SSIM have loss in tint and contrast whereas SRWGAN+SSIM have kept the contrast values
