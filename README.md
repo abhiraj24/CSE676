@@ -8,8 +8,7 @@ Super-Resolution Generative Adversarial Networks (SRGAN) are powerful generative
 Colab Link to Project: [Colab Demo](https://colab.research.google.com/drive/1R-7UojfD2oHKiqUWDRFYZ7CjjOCNMiuu?usp=sharing)|
 
 
-<!------------------------------ Steps to Run --------------------------->
-
+### Steps to Run 
 
 - ✅ Open the Colab link to the code for accessing the Google colab version.
 - ✅ Upload the test images which will be used for testing the model performance to the colab file section.
@@ -20,7 +19,9 @@ Colab Link to Project: [Colab Demo](https://colab.research.google.com/drive/1R-7
 
 
 
-<!---------------------------------- Results --------------------------->
+### Results
 | Model | SR-WGAN GP +SSIM  | SR-WGAN GP  |
 | :---:   | :-: | :-: |
 | PSNR | 25.37 | 21.33 |
+
+We ran two different types of models where we incorporated the SSIM loss in one model and kept it out in another. It can be seen from Table 1 that SRWGAN with SSIM was better. 
