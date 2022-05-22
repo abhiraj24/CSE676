@@ -21,6 +21,6 @@ Colab Link to Project: [Colab Demo](https://colab.research.google.com/drive/1R-7
 
 
 <!---------------------------------- Results --------------------------->
- SR-WGAN GP +SSIM| SR-WGAN GP | 
---- | --- | --- 
-PSNR = 25.37 | PSNR = 21.33 | 
+| Attempt | #1  | #2  |
+| :---:   | :-: | :-: |
+| Seconds | 301 | 283 |
