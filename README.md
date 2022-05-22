@@ -9,13 +9,18 @@ Colab Link to Project: [Colab Demo](https://colab.research.google.com/drive/1R-7
 
 
 <!------------------------------ Steps to Run --------------------------->
-<details>
+
 
 - ✅ Open the Colab link to the code for accessing the Google colab version.
 - ✅ Upload the test images which will be used for testing the model performance to the colab file section.
-- ✅ Download the Test dataset from [Kaggle](https://www.kaggle.com/datasets/landzz/llsrdatasets)|[Kaggle]
+- ✅ Download the Test dataset from [Kaggle](https://www.kaggle.com/datasets/landzz/llsrdatasets)
 - ✅ Upload the Zip folder to the colab file section and name it as Test Dataset.zip
 - ✅ The training and validation set will be downloaded into the colab by itself.
   
 
-</details>
+
+
+<!---------------------------------- Results --------------------------->
+ SR-WGAN GP +SSIM| SR-WGAN GP | 
+--- | --- | --- 
+PSNR = 25.37 | PSNR = 21.33 | 
